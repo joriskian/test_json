@@ -1,0 +1,86 @@
+{
+    "squadName": "Super hero squad",
+    "homeTown": "Metro City",
+    "formed": 2016,
+    "secretBase": "Super tower",
+    "active": true,
+    "members": [
+      {
+        "name": "Molecule Man",
+        "age": 29,
+        "secretIdentity": "Dan Jukes",
+        "powers": [
+          "Radiation resistance",
+          "Turning tiny",
+          "Radiation blast"
+        ]
+      },
+      {
+        "name": "Madame Uppercut",
+        "age": 39,
+        "secretIdentity": "Jane Wilson",
+        "powers": [
+          "Million tonne punch",
+          "Damage resistance",
+          "Superhuman reflexes"
+        ]
+      },
+      {
+        "name": "Eternal Flame",
+        "age": 1000000,
+        "secretIdentity": "Unknown",
+        "powers": [
+          "Immortality",
+          "Heat Immunity",
+          "Inferno",
+          "Teleportation",
+          "Interdimensional travel"
+        ]
+      },
+      {
+        "name": "myriam makeba",
+        "age": 26,
+        "secretIdentity": "makeba myriam",
+        "powers": [
+          "high-pitched voice",
+          "priest's robe",
+          "Teleportation",
+          "high-pitched noise"
+        ]
+      },
+      {
+        "name": "keya",
+        "age": 14,
+        "secretIdentity": "keke",
+        "powers": [
+          "dog-punch",
+          "ultra sensitive smell",
+          "amazing rapidity",
+          "ouaf-ouaf",
+          "never sleep"
+        ]
+      },
+      {
+        "name": "dino-prout",
+        "age": 50000,
+        "secretIdentity": "Unknown",
+        "powers": [
+          "stinky fart",
+          "Steal tooth",
+          "ultra resistance",
+          "Gigantic jumps",
+          "camouflage"
+        ]
+      },
+      {
+        "name": "rocky balboa",
+        "age": 65,
+        "secretIdentity": "Unknown",
+        "powers": [
+          "old punch",
+          "Heart murmure",
+          "Harthritis"
+        ]
+      }
+    ]
+  }
